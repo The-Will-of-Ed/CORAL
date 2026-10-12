@@ -30,7 +30,7 @@ STAR uses **Situation → Task → Action → Result** to make experience concis
 
 - **Reasoning + Action:** STAR tells you what someone did. Interviews go deeper because employers want to know how you think. Why did you choose that approach? What alternatives did you consider? How did you make it work?
 
-- **Learning:** Relevant experience matters because you've already figured things out. Show what you've learned from doing similar work and how that will help you perform better and faster in your next role when compared to the next candidate.
+- **Learning:** Relevant experience matters because you've already figured things out. Show what you've learned and how it helps you solve the problems they're hiring you for, faster and better.
 
 These aren't hypothetical priorities. [LinkedIn](https://www.linkedin.com/business/talent/blog/talent-acquisition/what-did-candidate-actually-do) discusses individual contribution, [Atlassian](https://www.atlassian.com/company/careers/resources/interviewing/engineering) evaluates technical judgment, and [Microsoft](https://careers.microsoft.com/v2/global/en/hiring-tips/interview-tips.html) explicitly recommends reflection.
 
